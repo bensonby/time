@@ -1,0 +1,5 @@
+.lilypond-fonts.cache-2
+*.wav
+*.mp3
+*.aac
+*.opus
